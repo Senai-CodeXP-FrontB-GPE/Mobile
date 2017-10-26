@@ -1,2 +1,1 @@
-# Mobile
-Projetos do Grupo E CodeXP (Html e CSS)
+# codexp-frontb-projeto2-gpe
